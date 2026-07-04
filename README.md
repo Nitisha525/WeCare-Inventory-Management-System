@@ -95,7 +95,29 @@ This project helped strengthen my understanding of:
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+### Main Menu
+
+![Main Menu](menu.png)
+
+### Product List
+
+![Product List](products%20list.png)
+
+### Selling a Product
+
+![Selling](selling%20a%20product.png)
+
+### Restocking a Product
+
+![Restocking](restocking%20a%20product.png)
+
+### Sales Invoice
+
+![Sales Invoice](sale%20invoice.png)
+
+### Restock Invoice
+
+![Restock Invoice](restock%20invoice.png)
 
 ---
 
